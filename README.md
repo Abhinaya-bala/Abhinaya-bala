@@ -1,4 +1,3 @@
-<img src ="https://i.ibb.co/HgxB25X/undraw-working-late-pukg.png" align="right" width="200"  />
 <h3 align='center'><samp><strong>Hey there! 👋 
 <br>I'm Abhinaya Balasubramanian </strong>😄</samp></h3>
 
@@ -13,9 +12,7 @@ I'm a Full stack developer who is passionate about making user friendly web appl
 </samp></p>
 
 <p>
-<samp>
-Note: Please feel free to clone projects and raise issues if you think something could be better.
-</samp>
+
 </p>
 
 <p align='center'>
@@ -24,6 +21,10 @@ Note: Please feel free to clone projects and raise issues if you think something
   <a href="https://www.linkedin.com/in/abhinaya-bala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+<samp>
+Note: Please feel free to clone projects and raise issues if you think something could be better.
+</samp>
 
  <hr>
 <h4> 🔭<samp> I’m currently working with ...</samp></h4>
