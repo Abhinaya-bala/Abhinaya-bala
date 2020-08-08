@@ -15,13 +15,16 @@ I'm a Full stack developer who is passionate about making user friendly web appl
 
 </p>
 
+
+
+
+
 <p align='center'>
  <a href="https://www.hackerrank.com/abhinayafeb19?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:abhinayafeb19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abhinaya-bala/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
 <samp>
 Note: Please feel free to clone projects and raise issues if you think something could be better.
 </samp>
@@ -40,3 +43,10 @@ Note: Please feel free to clone projects and raise issues if you think something
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/express%20-%23db7093.svg?&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23c21325.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
+
+<h4>🌱 <samp>My Github stats</samp></h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-bala)](https://github.com/Abhinaya-bala/)
+
+![Abhinaya-bala's github stats](https://github-readme-stats.vercel.app/api?username=Abhinaya-bala&count_private=true)
+
