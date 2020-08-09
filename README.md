@@ -32,15 +32,17 @@ I'm a Full stack developer who is passionate about making user friendly web appl
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" font-size="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<hr>
-</p>
 
+</p>
+<br>
+<br>
 <p>
 <h4>🌱 <samp>My Github stats</samp></h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-bala)](https://github.com/Abhinaya-bala/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhinaya-bala&count_private=true)
+
 </p>
 <hr>
 <samp>
